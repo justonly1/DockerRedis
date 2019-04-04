@@ -1,6 +1,6 @@
 # DockerRedis
 
-本环境是redis未授权访问漏洞环境
+本环境是redis未授权访问漏洞环境，可以使用该环境练习重置/etc/passwd文件从而重置root密码
 在docker下搭建
 
 
