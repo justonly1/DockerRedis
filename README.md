@@ -4,7 +4,7 @@
 在docker下搭建
 
 
-也可直接使用docker search ju5ton1y
+也可直接使用docker search ju5ton1y来搜索我已经做好的镜像
 
 镜像开放两个端口，分别为6379和22
 
